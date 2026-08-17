@@ -82,10 +82,12 @@ One problem solved and understood is better than ten copied solutions.
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/hrishi720/NEETCODE_150/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/hrishi720/NEETCODE_150/tree/master/0169-majority-element) |
 ## Hash Table
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/hrishi720/NEETCODE_150/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/hrishi720/NEETCODE_150/tree/master/0169-majority-element) |
 ## String
 |  |
 | ------- |
@@ -94,4 +96,17 @@ One problem solved and understood is better than ten copied solutions.
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/hrishi720/NEETCODE_150/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/hrishi720/NEETCODE_150/tree/master/0169-majority-element) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/hrishi720/NEETCODE_150/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/hrishi720/NEETCODE_150/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/hrishi720/NEETCODE_150/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
