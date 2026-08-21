@@ -117,6 +117,7 @@ One problem solved and understood is better than ten copied solutions.
 ## Math
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/hrishi720/NEETCODE_150/tree/master/0509-fibonacci-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/hrishi720/NEETCODE_150/tree/master/2965-find-missing-and-repeated-values) |
 ## Matrix
 |  |
@@ -130,4 +131,13 @@ One problem solved and understood is better than ten copied solutions.
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hrishi720/NEETCODE_150/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0509-fibonacci-number](https://github.com/hrishi720/NEETCODE_150/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/hrishi720/NEETCODE_150/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/hrishi720/NEETCODE_150/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
