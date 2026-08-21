@@ -117,6 +117,7 @@ One problem solved and understood is better than ten copied solutions.
 ## Math
 |  |
 | ------- |
+| [0326-power-of-three](https://github.com/hrishi720/NEETCODE_150/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/hrishi720/NEETCODE_150/tree/master/0509-fibonacci-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/hrishi720/NEETCODE_150/tree/master/2965-find-missing-and-repeated-values) |
 ## Matrix
@@ -135,6 +136,7 @@ One problem solved and understood is better than ten copied solutions.
 ## Recursion
 |  |
 | ------- |
+| [0326-power-of-three](https://github.com/hrishi720/NEETCODE_150/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/hrishi720/NEETCODE_150/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
