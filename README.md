@@ -85,6 +85,7 @@ One problem solved and understood is better than ten copied solutions.
 | [0088-merge-sorted-array](https://github.com/hrishi720/NEETCODE_150/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hrishi720/NEETCODE_150/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/hrishi720/NEETCODE_150/tree/master/0169-majority-element) |
+| [0645-set-mismatch](https://github.com/hrishi720/NEETCODE_150/tree/master/0645-set-mismatch) |
 | [1470-shuffle-the-array](https://github.com/hrishi720/NEETCODE_150/tree/master/1470-shuffle-the-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/hrishi720/NEETCODE_150/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
@@ -92,6 +93,7 @@ One problem solved and understood is better than ten copied solutions.
 | ------- |
 | [0049-group-anagrams](https://github.com/hrishi720/NEETCODE_150/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/hrishi720/NEETCODE_150/tree/master/0169-majority-element) |
+| [0645-set-mismatch](https://github.com/hrishi720/NEETCODE_150/tree/master/0645-set-mismatch) |
 | [2965-find-missing-and-repeated-values](https://github.com/hrishi720/NEETCODE_150/tree/master/2965-find-missing-and-repeated-values) |
 ## String
 |  |
@@ -103,6 +105,7 @@ One problem solved and understood is better than ten copied solutions.
 | [0049-group-anagrams](https://github.com/hrishi720/NEETCODE_150/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/hrishi720/NEETCODE_150/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/hrishi720/NEETCODE_150/tree/master/0169-majority-element) |
+| [0645-set-mismatch](https://github.com/hrishi720/NEETCODE_150/tree/master/0645-set-mismatch) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -143,4 +146,8 @@ One problem solved and understood is better than ten copied solutions.
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/hrishi720/NEETCODE_150/tree/master/0509-fibonacci-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0645-set-mismatch](https://github.com/hrishi720/NEETCODE_150/tree/master/0645-set-mismatch) |
 <!---LeetCode Topics End-->
