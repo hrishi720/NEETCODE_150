@@ -85,6 +85,7 @@ One problem solved and understood is better than ten copied solutions.
 | [0088-merge-sorted-array](https://github.com/hrishi720/NEETCODE_150/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hrishi720/NEETCODE_150/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/hrishi720/NEETCODE_150/tree/master/0169-majority-element) |
+| [1470-shuffle-the-array](https://github.com/hrishi720/NEETCODE_150/tree/master/1470-shuffle-the-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/hrishi720/NEETCODE_150/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
