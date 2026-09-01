@@ -83,6 +83,7 @@ One problem solved and understood is better than ten copied solutions.
 | ------- |
 | [0049-group-anagrams](https://github.com/hrishi720/NEETCODE_150/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/hrishi720/NEETCODE_150/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/hrishi720/NEETCODE_150/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/hrishi720/NEETCODE_150/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/hrishi720/NEETCODE_150/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hrishi720/NEETCODE_150/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -95,6 +96,7 @@ One problem solved and understood is better than ten copied solutions.
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/hrishi720/NEETCODE_150/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/hrishi720/NEETCODE_150/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/hrishi720/NEETCODE_150/tree/master/0169-majority-element) |
 | [0645-set-mismatch](https://github.com/hrishi720/NEETCODE_150/tree/master/0645-set-mismatch) |
 | [2965-find-missing-and-repeated-values](https://github.com/hrishi720/NEETCODE_150/tree/master/2965-find-missing-and-repeated-values) |
@@ -132,6 +134,7 @@ One problem solved and understood is better than ten copied solutions.
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/hrishi720/NEETCODE_150/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/hrishi720/NEETCODE_150/tree/master/0079-word-search) |
 | [2596-check-knight-tour-configuration](https://github.com/hrishi720/NEETCODE_150/tree/master/2596-check-knight-tour-configuration) |
 | [2965-find-missing-and-repeated-values](https://github.com/hrishi720/NEETCODE_150/tree/master/2965-find-missing-and-repeated-values) |
