@@ -169,13 +169,23 @@ One problem solved and understood is better than ten copied solutions.
 |  |
 | ------- |
 | [0079-word-search](https://github.com/hrishi720/NEETCODE_150/tree/master/0079-word-search) |
+| [0101-symmetric-tree](https://github.com/hrishi720/NEETCODE_150/tree/master/0101-symmetric-tree) |
 | [2596-check-knight-tour-configuration](https://github.com/hrishi720/NEETCODE_150/tree/master/2596-check-knight-tour-configuration) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/hrishi720/NEETCODE_150/tree/master/0101-symmetric-tree) |
 | [2596-check-knight-tour-configuration](https://github.com/hrishi720/NEETCODE_150/tree/master/2596-check-knight-tour-configuration) |
 ## Simulation
 |  |
 | ------- |
 | [2596-check-knight-tour-configuration](https://github.com/hrishi720/NEETCODE_150/tree/master/2596-check-knight-tour-configuration) |
+## Tree
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/hrishi720/NEETCODE_150/tree/master/0101-symmetric-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/hrishi720/NEETCODE_150/tree/master/0101-symmetric-tree) |
 <!---LeetCode Topics End-->
