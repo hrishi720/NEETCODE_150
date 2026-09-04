@@ -88,6 +88,7 @@ One problem solved and understood is better than ten copied solutions.
 | [0088-merge-sorted-array](https://github.com/hrishi720/NEETCODE_150/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hrishi720/NEETCODE_150/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/hrishi720/NEETCODE_150/tree/master/0169-majority-element) |
+| [0200-number-of-islands](https://github.com/hrishi720/NEETCODE_150/tree/master/0200-number-of-islands) |
 | [0645-set-mismatch](https://github.com/hrishi720/NEETCODE_150/tree/master/0645-set-mismatch) |
 | [1470-shuffle-the-array](https://github.com/hrishi720/NEETCODE_150/tree/master/1470-shuffle-the-array) |
 | [2596-check-knight-tour-configuration](https://github.com/hrishi720/NEETCODE_150/tree/master/2596-check-knight-tour-configuration) |
@@ -137,6 +138,7 @@ One problem solved and understood is better than ten copied solutions.
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/hrishi720/NEETCODE_150/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/hrishi720/NEETCODE_150/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/hrishi720/NEETCODE_150/tree/master/0200-number-of-islands) |
 | [2596-check-knight-tour-configuration](https://github.com/hrishi720/NEETCODE_150/tree/master/2596-check-knight-tour-configuration) |
 | [2965-find-missing-and-repeated-values](https://github.com/hrishi720/NEETCODE_150/tree/master/2965-find-missing-and-repeated-values) |
 ## Two Pointers
@@ -171,11 +173,13 @@ One problem solved and understood is better than ten copied solutions.
 | ------- |
 | [0079-word-search](https://github.com/hrishi720/NEETCODE_150/tree/master/0079-word-search) |
 | [0101-symmetric-tree](https://github.com/hrishi720/NEETCODE_150/tree/master/0101-symmetric-tree) |
+| [0200-number-of-islands](https://github.com/hrishi720/NEETCODE_150/tree/master/0200-number-of-islands) |
 | [2596-check-knight-tour-configuration](https://github.com/hrishi720/NEETCODE_150/tree/master/2596-check-knight-tour-configuration) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/hrishi720/NEETCODE_150/tree/master/0101-symmetric-tree) |
+| [0200-number-of-islands](https://github.com/hrishi720/NEETCODE_150/tree/master/0200-number-of-islands) |
 | [2596-check-knight-tour-configuration](https://github.com/hrishi720/NEETCODE_150/tree/master/2596-check-knight-tour-configuration) |
 ## Simulation
 |  |
@@ -193,4 +197,8 @@ One problem solved and understood is better than ten copied solutions.
 |  |
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/hrishi720/NEETCODE_150/tree/master/3903-smallest-stable-index-i) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/hrishi720/NEETCODE_150/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
