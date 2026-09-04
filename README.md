@@ -92,6 +92,7 @@ One problem solved and understood is better than ten copied solutions.
 | [1470-shuffle-the-array](https://github.com/hrishi720/NEETCODE_150/tree/master/1470-shuffle-the-array) |
 | [2596-check-knight-tour-configuration](https://github.com/hrishi720/NEETCODE_150/tree/master/2596-check-knight-tour-configuration) |
 | [2965-find-missing-and-repeated-values](https://github.com/hrishi720/NEETCODE_150/tree/master/2965-find-missing-and-repeated-values) |
+| [3903-smallest-stable-index-i](https://github.com/hrishi720/NEETCODE_150/tree/master/3903-smallest-stable-index-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -188,4 +189,8 @@ One problem solved and understood is better than ten copied solutions.
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/hrishi720/NEETCODE_150/tree/master/0101-symmetric-tree) |
+## Prefix Sum
+|  |
+| ------- |
+| [3903-smallest-stable-index-i](https://github.com/hrishi720/NEETCODE_150/tree/master/3903-smallest-stable-index-i) |
 <!---LeetCode Topics End-->
