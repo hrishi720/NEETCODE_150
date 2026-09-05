@@ -90,6 +90,7 @@ One problem solved and understood is better than ten copied solutions.
 | [0169-majority-element](https://github.com/hrishi720/NEETCODE_150/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/hrishi720/NEETCODE_150/tree/master/0200-number-of-islands) |
 | [0645-set-mismatch](https://github.com/hrishi720/NEETCODE_150/tree/master/0645-set-mismatch) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/hrishi720/NEETCODE_150/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/hrishi720/NEETCODE_150/tree/master/1470-shuffle-the-array) |
 | [2596-check-knight-tour-configuration](https://github.com/hrishi720/NEETCODE_150/tree/master/2596-check-knight-tour-configuration) |
 | [2965-find-missing-and-repeated-values](https://github.com/hrishi720/NEETCODE_150/tree/master/2965-find-missing-and-repeated-values) |
@@ -101,6 +102,7 @@ One problem solved and understood is better than ten copied solutions.
 | [0073-set-matrix-zeroes](https://github.com/hrishi720/NEETCODE_150/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/hrishi720/NEETCODE_150/tree/master/0169-majority-element) |
 | [0645-set-mismatch](https://github.com/hrishi720/NEETCODE_150/tree/master/0645-set-mismatch) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/hrishi720/NEETCODE_150/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/hrishi720/NEETCODE_150/tree/master/2965-find-missing-and-repeated-values) |
 ## String
 |  |
@@ -114,6 +116,7 @@ One problem solved and understood is better than ten copied solutions.
 | [0088-merge-sorted-array](https://github.com/hrishi720/NEETCODE_150/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/hrishi720/NEETCODE_150/tree/master/0169-majority-element) |
 | [0645-set-mismatch](https://github.com/hrishi720/NEETCODE_150/tree/master/0645-set-mismatch) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/hrishi720/NEETCODE_150/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -201,4 +204,8 @@ One problem solved and understood is better than ten copied solutions.
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/hrishi720/NEETCODE_150/tree/master/0200-number-of-islands) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/hrishi720/NEETCODE_150/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
