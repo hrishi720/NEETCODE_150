@@ -176,12 +176,14 @@ One problem solved and understood is better than ten copied solutions.
 | ------- |
 | [0079-word-search](https://github.com/hrishi720/NEETCODE_150/tree/master/0079-word-search) |
 | [0101-symmetric-tree](https://github.com/hrishi720/NEETCODE_150/tree/master/0101-symmetric-tree) |
+| [0112-path-sum](https://github.com/hrishi720/NEETCODE_150/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/hrishi720/NEETCODE_150/tree/master/0200-number-of-islands) |
 | [2596-check-knight-tour-configuration](https://github.com/hrishi720/NEETCODE_150/tree/master/2596-check-knight-tour-configuration) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/hrishi720/NEETCODE_150/tree/master/0101-symmetric-tree) |
+| [0112-path-sum](https://github.com/hrishi720/NEETCODE_150/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/hrishi720/NEETCODE_150/tree/master/0200-number-of-islands) |
 | [2596-check-knight-tour-configuration](https://github.com/hrishi720/NEETCODE_150/tree/master/2596-check-knight-tour-configuration) |
 ## Simulation
@@ -192,10 +194,12 @@ One problem solved and understood is better than ten copied solutions.
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/hrishi720/NEETCODE_150/tree/master/0101-symmetric-tree) |
+| [0112-path-sum](https://github.com/hrishi720/NEETCODE_150/tree/master/0112-path-sum) |
 ## Binary Tree
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/hrishi720/NEETCODE_150/tree/master/0101-symmetric-tree) |
+| [0112-path-sum](https://github.com/hrishi720/NEETCODE_150/tree/master/0112-path-sum) |
 ## Prefix Sum
 |  |
 | ------- |
